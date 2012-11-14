@@ -3,7 +3,10 @@ class Verger{
 	private String nom ;
 	private int superficie;
 	private int nbArbre;
-	public int getNbArbre{
+	public int getNbArbre(){
+
+	}
+	public Verger(){
 
 	}
 
